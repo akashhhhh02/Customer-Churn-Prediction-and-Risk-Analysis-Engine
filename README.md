@@ -21,6 +21,7 @@ Customer churn is a major revenue challenge in the telecom industry. This projec
 ## 🗂 Dataset
 
 Dataset used: Telco Customer Churn (IBM Sample Dataset) from Kaggle.
+
 Kaggle Link: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 The dataset contains:
